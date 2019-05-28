@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">kmrj1</string>
+    <string name="tv_mi">Déposez votre données</string>
+    <string name="etnombre">Prénom</string>
+    <string name="etape_pat">Nom de son père</string>
+    <string name="etap_mat">Nom de sa mère</string>
+    <string name="b_Fecha_Nacimiento">Date de Naissance</string>
+    <string name="b_Enviar">Envoyer</string>
+
+    <string name="a2_tvnombre">Prénom:</string>
+    <string name="a2_tvapellidos">Nom de famille:</string>
+    <string name="a2_tvedad">Agê:</string>
+    <string name="a2_tvsignoz">Signe du zodiaque:</string>
+    <string name="a2_tvRFC">RFC: </string>
+    <string name="b_Regresar">Retour</string>
+
+    <string name="a2_tvnombref">Ingrese Nombre:</string>
+    <string name="a2_tvapellidosf">Ingrese Apellidos:</string>
+    <string name="a2_tvedadf">Ingrese fecha valida</string>
+
+</resources>
